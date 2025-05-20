@@ -68,14 +68,11 @@ This is a **feature-rich ToDo list app** built using Flutter. It allows users to
 ![Screenshot (696)](https://github.com/user-attachments/assets/f55faa79-1f7b-4cd4-9e38-b4042b975741)
 
 
-> Screenshots taken from a working Chrome browser session.
-
----
 
 
 
 
-> Screenshots taken from a working Chrome browser session.
+
 
 ---
 
